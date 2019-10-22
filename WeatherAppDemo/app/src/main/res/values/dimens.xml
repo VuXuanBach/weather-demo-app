@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="normal_padding">10dp</dimen>
+    <dimen name="large_padding">15dp</dimen>
+    <dimen name="super_large_padding">20dp</dimen>
+
+    <dimen name="card_view_rad">12dp</dimen>
+
+    <dimen name="weather_icon_size">80dp</dimen>
+    <dimen name="child_weather_icon_size">40dp</dimen>
+
+    <!-- text size -->
+    <dimen name="weather_list_title_text_size">20sp</dimen>
+    <dimen name="weather_list_status_text_size">30sp</dimen>
+    <dimen name="weather_list_time_text_size">15sp</dimen>
+    <dimen name="weather_detail_status_text_size">50sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
